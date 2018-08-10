@@ -1,0 +1,1 @@
+This is my portfolio in its beginning stages. No projects as of yet but will add them soon. URL is "portfolio1.surge.sh" 
